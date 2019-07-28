@@ -1,6 +1,8 @@
 # Docker Node MongoDB Example
 
 > Simple example of a dockerized Node/Mongo app
+referance 
+Brad Traversy
 
 ## Quick Start
 
@@ -19,3 +21,4 @@ volumes: ['./:/usr/src/app']
 docker-compose build
 ```
 # Docker-nodejs
+
